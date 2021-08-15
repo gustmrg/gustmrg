@@ -6,6 +6,6 @@
 
 ## About Me
 
-- Currently an undergraduate student in _Analysis and Software Development_.
+- Currently an undergraduate student in _Analysis and System Development_.
 - I have interest in learning new technologies, especially those related to Linux and Back-End.  
 - Focused on .NET and C#.
