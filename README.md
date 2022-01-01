@@ -1,5 +1,5 @@
 <p align="center">
-<br><img src="#" width="280px"><br><br>
+<br><img src="https://github.com/gustmrg/gustmrg/blob/main/code.gif" width="560px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/gustmrg">
