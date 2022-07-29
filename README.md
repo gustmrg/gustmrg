@@ -11,7 +11,7 @@ const gustmrg = {
         technologies: {
             frontEnd: ['HTML', 'CSS'],              
             backEnd: ['C#', '.NET'],
-            architectures: ['MVC', 'Microsservices'],
+            architectures: ['MVC', 'Microservices'],
             databases: ['Microsoft SQL Server', 'PostgreSQL'],
             learning: ['JavaScript', 'TypeScript', 'React', 'MongoDB']
         }
