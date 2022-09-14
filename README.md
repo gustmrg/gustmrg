@@ -9,11 +9,11 @@ const gustmrg = {
     },    
     technical: {
         technologies: {
-            frontEnd: ['HTML', 'CSS'],              
+            frontEnd: ['HTML', 'CSS', 'JavaScript'],              
             backEnd: ['C#', '.NET'],
-            architectures: ['MVC', 'Microservices'],
+            architectures: ['MVC', 'SPA'],
             databases: ['Microsoft SQL Server', 'PostgreSQL'],
-            learning: ['JavaScript', 'TypeScript', 'Angular', 'MongoDB']
+            learning: ['TypeScript', 'React', 'MongoDB', 'Microservices']
         }
     }
 }
