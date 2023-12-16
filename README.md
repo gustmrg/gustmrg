@@ -1,7 +1,7 @@
-## Hello 👋 , I'm Gustavo Miranda
+## Hello 👋 , I'm Gustavo!
 
-```js
-const gustmrg = {
+```ts
+const gustmrg: Developer = {
   personal: {
     fullName: "Gustavo Miranda",
     interests: ["coffee", "music", "games", "language learning", "animes"],
@@ -9,11 +9,11 @@ const gustmrg = {
   technical: {
     role: "Software Developer",
     technologies: {
-      frontEnd: ["HTML", "CSS", "JavaScript"],
+      frontEnd: ["HTML", "CSS", "JavaScript", "TypeScript"],
       backEnd: ["C#", ".NET"],
-      architectures: ["MVC", "SPA", "Microservices"],
       databases: ["Microsoft SQL Server", "PostgreSQL", "Sqlite", "MongoDB"],
-      learning: ["TypeScript", "React", "NextJS"],
+      tools: ["Git", "Docker", "NGINX"],
+      learning: ["TypeScript", "React", "NextJS"]      
     },
   },
 };
