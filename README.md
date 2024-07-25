@@ -9,11 +9,11 @@ const gustmrg: Developer = {
   technical: {
     role: "Software Developer",
     technologies: {
-      frontEnd: ["HTML", "CSS", "JavaScript", "TypeScript"],
+      frontEnd: ["JavaScript", "TypeScript", "React"],
       backEnd: ["C#", ".NET"],
       databases: ["Microsoft SQL Server", "PostgreSQL", "Sqlite", "MongoDB"],
       tools: ["Git", "Docker", "NGINX"],
-      learning: ["TypeScript", "React", "NextJS"]      
+      learning: ["NextJS"]      
     },
   },
 };
