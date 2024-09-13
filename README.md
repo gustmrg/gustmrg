@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Gustavo!
 
-**`Software Engineer`**
+👨‍💻 **Full Stack Software Developer**
+
+Hi there! I'm a passionate full stack developer with a love for crafting both front-end and back-end solutions. When I'm not coding for work, you'll often find me experimenting with personal projects, diving into new frameworks, and exploring creative ways to solve problems through code.
+
+Always eager to learn, improve, and push the boundaries of what's possible with technology.
 
 ---
 
