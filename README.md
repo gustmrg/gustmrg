@@ -12,7 +12,7 @@ Always eager to learn, improve, and push the boundaries of what's possible with 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,tailwind,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,html,css,tailwind,postgres,docker,rabbitmq,redis" />
   </a>
 </p>
 
