@@ -2,17 +2,23 @@
 
 👨‍💻 **Full Stack Software Developer**
 
-Hi there! I'm a passionate full stack developer with a love for crafting both front-end and back-end solutions. When I'm not coding for work, you'll often find me experimenting with personal projects, diving into new frameworks, and exploring creative ways to solve problems through code.
+I’m a full stack developer who loves building end-to-end solutions—from polished front-ends to scalable back-ends. Outside of work, I’m usually tinkering with new frameworks, exploring cloud-native architectures, and finding creative ways to solve problems through code.  
 
-Always eager to learn, improve, and push the boundaries of what's possible with technology.
+✨ Always learning, always experimenting. 
 
+---
+
+## 🌱 What I’m Working On
+- 🚀 Studying distributed application design and cloud architecture with Azure  
+- ⚡ Building microservices and event-driven systems using RabbitMQ  
+- 🎨 Developing side projects with React and .NET
 ---
 
 ## 🔧 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,html,css,tailwind,postgres,docker,rabbitmq,redis" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,css,tailwind,postgres,docker,rabbitmq,redis,linux,nginx" />
   </a>
 </p>
 
@@ -23,4 +29,13 @@ Always eager to learn, improve, and push the boundaries of what's possible with 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustmrg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark_dimmed" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustmrg&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark_dimmed" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
