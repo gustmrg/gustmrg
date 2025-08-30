@@ -35,7 +35,7 @@ I’m a full stack developer who loves building end-to-end solutions—from poli
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustmrg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
