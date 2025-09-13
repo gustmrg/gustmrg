@@ -18,7 +18,7 @@ I’m a full stack developer who loves building end-to-end solutions—from poli
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,css,tailwind,postgres,docker,rabbitmq,redis,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,tailwind,js,ts,react,angular,postgres,docker,rabbitmq,redis,linux,nginx" />
   </a>
 </p>
 
