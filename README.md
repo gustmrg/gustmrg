@@ -4,9 +4,9 @@ Full-stack software developer building web applications and distributed services
 
 ## Current Projects
 
-- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Full-stack web app built with **.NET**, **React**, and **PostgreSQL**.
+- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Full-stack budget and financial management platform for organizations built with **.NET**, **React**, and **PostgreSQL**.
 
-- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time full-stack app with a **.NET API (SignalR)** and a **React** front-end built with **TanStack Start**.
+- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time chat application with group and direct messaging powered by **.NET (SignalR)** and **React (TanStack Start)**.
 
 - 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — **.NET CLI** tool for backing up databases.
 
