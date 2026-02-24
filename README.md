@@ -1,20 +1,22 @@
-# Hi there 👋, I'm Gustavo!
+# Hi, I'm Gustavo 👋
 
-👨‍💻 **Full Stack Software Developer**
+Full-stack software developer building web applications and distributed services with **.NET** and **React**, with an emphasis on practical architecture, clean UX, and production deployments.
 
-I’m a full stack developer who loves building end-to-end solutions—from polished front-ends to scalable back-ends. Outside of work, I’m usually tinkering with new frameworks, exploring cloud-native architectures, and finding creative ways to solve problems through code.  
+## Current Projects
 
-✨ Always learning, always experimenting. 
+- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Full-stack web app built with **.NET**, **React**, and **PostgreSQL**.
 
----
+- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time full-stack app with a **.NET API (SignalR)** and a **React** front-end built with **TanStack Start**.
 
-## 🌱 What I’m Working On
-- 🚀 Studying distributed application design and cloud architecture with Azure  
-- ⚡ Building microservices and event-driven systems using RabbitMQ  
-- 🎨 Developing side projects with React and .NET
----
+- 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — **.NET CLI** tool for backing up databases.
 
-## 🔧 Tech Stack
+## What I'm Doing
+
+- Distributed application design and cloud architecture (Azure/AWS)
+- Event-driven systems and messaging patterns
+- Building and operating production-ready services
+
+## Tech
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,11 +24,6 @@ I’m a full stack developer who loves building end-to-end solutions—from poli
   </a>
 </p>
 
----
+## Connect
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustmrg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustmrg/)
