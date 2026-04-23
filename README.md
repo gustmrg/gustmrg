@@ -12,7 +12,7 @@ Full-stack software developer building web applications and distributed services
 
 - 🧠 **[Echo](https://github.com/gustmrg/echo)** - Text-to-speech app that records audio, transcribes it, then uses AI to polish and structure the text built with **React**.
 
-- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — Go-based CLI for tracking daily development work and generating formatted timesheet summaries.
+- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go**-based CLI for tracking daily development work and generating formatted timesheet summaries.
 
 ## What I'm Doing
 
