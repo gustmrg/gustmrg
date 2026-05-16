@@ -14,11 +14,13 @@ Full-stack software developer building web applications and distributed services
 
 - 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go**-based CLI for tracking daily development work and generating formatted timesheet summaries.
 
+- ✍️ **[Blog](https://github.com/gustmrg/blog)** — Minimal personal blog built with **Astro**.
+
 ## What I'm Doing
 
 - Distributed application design and cloud architecture (Azure/AWS)
-- Event-driven systems and messaging patterns
-- Building and operating production-ready services
+- Learning Golang and building CLI tools with it
+- Exploring AI agents and how they are shaping this new era of software engineering 
 
 ## Tech
 
