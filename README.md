@@ -16,6 +16,8 @@ Full-stack software developer building web applications and distributed services
 
 - ✍️ **[Blog](https://github.com/gustmrg/blog)** — Minimal personal blog built with **Astro**.
 
+- 🎧 **[Lofi](https://github.com/gustmrg/lofi)** — **Go** terminal music player for streaming lofi from YouTube.
+
 ## What I'm Doing
 
 - Distributed application design and cloud architecture (Azure/AWS)
