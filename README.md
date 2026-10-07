@@ -19,25 +19,29 @@ I'm currently focused on building production-ready applications that combine cle
 
 A few selected projects and experiments:
 
-- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Full-stack budget and financial management platform for organizations built with **.NET**, **React**, and **PostgreSQL**.
+- 🤖 **[Wisp Bot](https://github.com/gustmrg/wisp-bot)** — An app where you create AI teammates to help with everyday tasks, built with **Electron**, **React**, and **TypeScript**.
 
-- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time chat application with group and direct messaging powered by **.NET** and **React**.
+- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Multi-tenant financial management platform built with **.NET**, **React**, and **PostgreSQL**, with an installable PWA and MCP integration for AI agents.
 
-- 🧠 **[Echo](https://github.com/gustmrg/echo)** — AI-powered speech-to-text app that records audio, transcribes speech, and polishes/structures the text using AI, built with **React**, **.NET**, and **Go**.
+- 🧠 **[Echo](https://github.com/gustmrg/echo)** — Speech-to-text app that turns recordings into polished posts, interviews, and notes using AI, built with **React**, **.NET**, and **TypeScript**, with **RabbitMQ** for asynchronous processing.
 
-- 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — **.NET CLI** tool for backing up databases.
+- 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — **.NET CLI** for automated database and configuration backups on Docker-based Linux servers, with restore verification, retention, and offsite copies.
 
-- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go**-based CLI for tracking daily development work and generating formatted timesheet summaries.
+- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go CLI** for tracking development work, importing GitHub activity, and generating Markdown summaries with optional AI assistance and multi-device sync.
 
-- ✍️ **[Blog](https://github.com/gustmrg/blog)** — Minimal personal blog built with **Astro**.
+- 📊 **[ai-usage](https://github.com/gustmrg/ai-usage)** — Cross-platform **Go CLI and terminal dashboard** for monitoring AI coding assistant subscription usage.
+
+### Other Projects
+
+- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time chat application with direct messages, groups, channels, and presence tracking, built with **.NET**, **React**, and **SignalR**.
 
 - 🎧 **[Lofi](https://github.com/gustmrg/lofi)** — **Go** terminal music player for streaming lofi from YouTube.
 
 ### 🔭 Currently Exploring
 
 - Distributed application design and cloud architecture (Azure/AWS)
-- Learning Golang and building CLI tools with it
-- Exploring AI agents and how they are shaping this new era of software engineering 
+- Building practical CLI tools and terminal interfaces with Go
+- Persistent AI agents, memory, and integrations with everyday tools
 
 ### Tech
 
@@ -48,5 +52,7 @@ A few selected projects and experiments:
 **Infrastructure:** Docker, Linux, Nginx, Azure, AWS
 
 ## Connect
+
+[✍️ Blog](https://github.com/gustmrg/blog) — Writing about web development, tools, and things I learn along the way. Built with **Astro**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustmrg/)
