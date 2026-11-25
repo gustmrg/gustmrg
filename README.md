@@ -1,58 +1,50 @@
 # Hi, I'm Gustavo 👋
 
-I'm a full-stack software developer focused on building practical web applications, distributed systems, and developer tools with **.NET**, **React**, **Go**, and cloud infrastructure.
+I'm a full-stack software engineer building practical web platforms, developer tools, and AI-native software with **.NET**, **TypeScript**, **React**, and **Go**.
 
-My work focuses on shipping useful software: SaaS-style platforms, real-time applications, CLI tools, and experiments with AI-assisted workflows.
+My work lives at the intersection of solid software engineering and **AI-assisted development** — designing reliable backends, clean interfaces, and agentic workflows where AI agents connect directly to real systems and tools.
 
-## 🚀 My Work
+## 🚀 Current Focus
 
-### Current Focus
+- **AI-native products & agentic workflows** — persistent multi-agent systems, tool integrations, and **MCP** servers
+- **Full-stack applications** — production-ready platforms built with **.NET**, **React**, and **PostgreSQL**
+- **Developer & ops tooling** — self-contained CLIs in **Go** and **.NET**, and cross-platform **Electron** desktop apps
+- **Pragmatic architecture** — clean UX, event-driven backends, and reliable self-hosted infrastructure
 
-I'm currently focused on building production-ready applications that combine clean UX, pragmatic architecture, and reliable backend systems.
+## 🛠️ Selected Projects
 
-- Full-stack SaaS-style platforms with **.NET**, **React**, and **PostgreSQL**
-- Real-time systems using **SignalR** and distributed service patterns
-- CLI tools in **Go** and **.NET**
-- AI-assisted workflows, agents, and practical automation
+### AI & Agentic Tools
 
-### Projects
+- 🤖 **[Wisp Bot](https://github.com/gustmrg/wisp-bot)** — Open-source app for assembling a team of specialized AI agents with their own identity, memory, and tools, running locally or on a headless server. Built with **Electron**, **React**, and **TypeScript**.
 
-A few selected projects and experiments:
+- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go CLI** for recording daily engineering work from Git, GitHub, Claude Code, and OpenCode sessions, generating Markdown summaries, and serving activity to AI agents over **MCP**.
 
-- 🤖 **[Wisp Bot](https://github.com/gustmrg/wisp-bot)** — An app where you create AI teammates to help with everyday tasks, built with **Electron**, **React**, and **TypeScript**.
+- 🧠 **[Echo](https://github.com/gustmrg/echo)** — Audio-first note-taking app that transcribes recordings and turns them into polished posts, interviews, or structured notes with AI. Built with **React**, **.NET**, **TypeScript**, and **RabbitMQ**.
 
-- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** — Multi-tenant financial management platform built with **.NET**, **React**, and **PostgreSQL**, with an installable PWA and MCP integration for AI agents.
+### Full-Stack, Systems & Desktop
 
-- 🧠 **[Echo](https://github.com/gustmrg/echo)** — Speech-to-text app that turns recordings into polished posts, interviews, and notes using AI, built with **React**, **.NET**, and **TypeScript**, with **RabbitMQ** for asynchronous processing.
+- 💵 **[BitFinance](https://bitfinance.gustavomiranda.dev/)** ([source](https://github.com/gustmrg/bitfinance)) — Multi-tenant financial management platform built with **.NET**, **React**, and **PostgreSQL**, featuring an installable PWA and a **.NET MCP server** for AI agent integration.
 
-- 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — **.NET CLI** for automated database and configuration backups on Docker-based Linux servers, with restore verification, retention, and offsite copies.
+- 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — Self-contained **.NET CLI** for automated PostgreSQL backups on Docker-based Linux servers, with checksums, restore verification, retention policies, and offsite copies.
 
-- 📝 **[DevLog](https://github.com/gustmrg/devlog)** — **Go CLI** for tracking development work, importing GitHub activity, and generating Markdown summaries with optional AI assistance and multi-device sync.
+- 🎵 **[Local Music](https://github.com/gustmrg/music-app)** — Local-first desktop music player for personal audio libraries, YouTube streams, and self-hosted indexers, with no accounts or telemetry. Built with **Electron**, **React**, and **TypeScript**.
 
-- 📊 **[ai-usage](https://github.com/gustmrg/ai-usage)** — Cross-platform **Go CLI and terminal dashboard** for monitoring AI coding assistant subscription usage.
+### Portable Setup & Agent Tooling
 
-### Other Projects
+- ⚙️ **[dotfiles](https://github.com/gustmrg/dotfiles)** & **[pi-config](https://github.com/gustmrg/pi-config)** — Portable shell, Git, editor, and coding-agent configurations, along with custom extensions and themes for the Pi Coding Agent.
 
-- 👻 **[Whisp](https://whisp.gustavomiranda.dev/chat)** — Real-time chat application with direct messages, groups, channels, and presence tracking, built with **.NET**, **React**, and **SignalR**.
+## 🧰 Tech Stack
 
-- 🎧 **[Lofi](https://github.com/gustmrg/lofi)** — **Go** terminal music player for streaming lofi from YouTube.
+**Languages:** C#, TypeScript, Go
 
-### 🔭 Currently Exploring
+**AI & Agents:** MCP (Model Context Protocol), Multi-Agent Systems, AI-Assisted Workflows, Coding Agent Tooling
 
-- Distributed application design and cloud architecture (Azure/AWS)
-- Building practical CLI tools and terminal interfaces with Go
-- Persistent AI agents, memory, and integrations with everyday tools
+**Backend:** .NET, Node.js, PostgreSQL, Redis, RabbitMQ
 
-### Tech
-
-**Backend:** .NET, C#, Go, PostgreSQL, Redis, RabbitMQ
-
-**Frontend:** React, TypeScript, Tailwind CSS, Angular
+**Frontend & Desktop:** React, Electron, Tailwind CSS
 
 **Infrastructure:** Docker, Linux, Nginx, Azure, AWS
 
-## Connect
-
-[✍️ Blog](https://github.com/gustmrg/blog) — Writing about web development, tools, and things I learn along the way. Built with **Astro**.
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustmrg/)
