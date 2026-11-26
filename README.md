@@ -27,7 +27,7 @@ My work lives at the intersection of solid software engineering and **AI-assiste
 
 - 🦦 **[Lutra](https://github.com/gustmrg/lutra)** — Self-contained **.NET CLI** for automated PostgreSQL backups on Docker-based Linux servers, with checksums, restore verification, retention policies, and offsite copies.
 
-- 🎵 **[Local Music](https://github.com/gustmrg/music-app)** — Local-first desktop music player for personal audio libraries, YouTube streams, and self-hosted indexers, with no accounts or telemetry. Built with **Electron**, **React**, and **TypeScript**.
+- 🎵 **[Playmio](https://github.com/gustmrg/playmio)** — Local-first desktop music player for personal audio libraries, YouTube streams, and self-hosted indexers, with no accounts or telemetry. Built with **Electron**, **React**, and **TypeScript**.
 
 ### Portable Setup & Agent Tooling
 
